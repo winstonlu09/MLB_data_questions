@@ -1,0 +1,9 @@
+,League Name,Wins,Batting,Pitching,Fielding,Misc
+0,National League,/leagues/NL/,/leagues/NL/bat.shtml,/leagues/NL/pitch.shtml,/leagues/NL/field.shtml,/leagues/NL/misc.shtml
+1,American League,/leagues/AL/,/leagues/AL/bat.shtml,/leagues/AL/pitch.shtml,/leagues/AL/field.shtml,/leagues/AL/misc.shtml
+2,Federal League,/leagues/FL/,/leagues/FL/bat.shtml,/leagues/FL/pitch.shtml,/leagues/FL/field.shtml,/leagues/FL/misc.shtml
+3,American Association,/leagues/AA/,/leagues/AA/bat.shtml,/leagues/AA/pitch.shtml,/leagues/AA/field.shtml,/leagues/AA/misc.shtml
+4,Players League,/leagues/PL/,/leagues/PL/bat.shtml,/leagues/PL/pitch.shtml,/leagues/PL/field.shtml,/leagues/PL/misc.shtml
+5,Union Association,/leagues/UA/,/leagues/UA/bat.shtml,/leagues/UA/pitch.shtml,/leagues/UA/field.shtml,/leagues/UA/misc.shtml
+6,National Association,/leagues/NA/,/leagues/NA/bat.shtml,/leagues/NA/pitch.shtml,/leagues/NA/field.shtml,/leagues/NA/misc.shtml
+7,All Major Leagues,/leagues/MLB/,/leagues/MLB/bat.shtml,/leagues/MLB/pitch.shtml,/leagues/MLB/field.shtml,/leagues/MLB/misc.shtml

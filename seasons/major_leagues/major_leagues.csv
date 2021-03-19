@@ -1,0 +1,83 @@
+,Year,Lg,Champion,MVP,Lg_url,Champion_url,MVP_url
+0,2020,NL,Los Angeles Dodgers,Freddie Freeman,/leagues/NL/2020.shtml,/teams/LAD/2020.shtml,/players/f/freemfr01.shtml
+1,2020,AL,Tampa Bay Rays,José Abreu,/leagues/AL/2020.shtml,/teams/TBR/2020.shtml,/players/a/abreujo02.shtml
+2,2019,NL,Washington Nationals,Cody Bellinger,/leagues/NL/2019.shtml,/teams/WSN/2019.shtml,/players/b/bellico01.shtml
+3,2019,AL,Houston Astros,Mike Trout,/leagues/AL/2019.shtml,/teams/HOU/2019.shtml,/players/t/troutmi01.shtml
+4,2018,NL,Los Angeles Dodgers,Christian Yelich,/leagues/NL/2018.shtml,/teams/LAD/2018.shtml,/players/y/yelicch01.shtml
+5,2018,AL,Boston Red Sox,Mookie Betts,/leagues/AL/2018.shtml,/teams/BOS/2018.shtml,/players/b/bettsmo01.shtml
+6,2017,NL,Los Angeles Dodgers,Giancarlo Stanton,/leagues/NL/2017.shtml,/teams/LAD/2017.shtml,/players/s/stantmi03.shtml
+7,2017,AL,Houston Astros,Jose Altuve,/leagues/AL/2017.shtml,/teams/HOU/2017.shtml,/players/a/altuvjo01.shtml
+8,2016,NL,Chicago Cubs,Kris Bryant,/leagues/NL/2016.shtml,/teams/CHC/2016.shtml,/players/b/bryankr01.shtml
+9,2016,AL,Cleveland Indians,Mike Trout,/leagues/AL/2016.shtml,/teams/CLE/2016.shtml,/players/t/troutmi01.shtml
+10,2015,NL,New York Mets,Bryce Harper,/leagues/NL/2015.shtml,/teams/NYM/2015.shtml,/players/h/harpebr03.shtml
+11,2015,AL,Kansas City Royals,Josh Donaldson,/leagues/AL/2015.shtml,/teams/KCR/2015.shtml,/players/d/donaljo02.shtml
+12,2014,NL,San Francisco Giants,Clayton Kershaw,/leagues/NL/2014.shtml,/teams/SFG/2014.shtml,/players/k/kershcl01.shtml
+13,2014,AL,Kansas City Royals,Mike Trout,/leagues/AL/2014.shtml,/teams/KCR/2014.shtml,/players/t/troutmi01.shtml
+14,2013,NL,St. Louis Cardinals,Andrew McCutchen,/leagues/NL/2013.shtml,/teams/STL/2013.shtml,/players/m/mccutan01.shtml
+15,2013,AL,Boston Red Sox,Miguel Cabrera,/leagues/AL/2013.shtml,/teams/BOS/2013.shtml,/players/c/cabremi01.shtml
+16,2012,NL,San Francisco Giants,Buster Posey,/leagues/NL/2012.shtml,/teams/SFG/2012.shtml,/players/p/poseybu01.shtml
+17,2012,AL,Detroit Tigers,Miguel Cabrera,/leagues/AL/2012.shtml,/teams/DET/2012.shtml,/players/c/cabremi01.shtml
+18,2011,NL,St. Louis Cardinals,Ryan Braun,/leagues/NL/2011.shtml,/teams/STL/2011.shtml,/players/b/braunry02.shtml
+19,2011,AL,Texas Rangers,Justin Verlander,/leagues/AL/2011.shtml,/teams/TEX/2011.shtml,/players/v/verlaju01.shtml
+20,2010,NL,San Francisco Giants,Joey Votto,/leagues/NL/2010.shtml,/teams/SFG/2010.shtml,/players/v/vottojo01.shtml
+21,2010,AL,Texas Rangers,Josh Hamilton,/leagues/AL/2010.shtml,/teams/TEX/2010.shtml,/players/h/hamiljo03.shtml
+22,2009,NL,Philadelphia Phillies,Albert Pujols,/leagues/NL/2009.shtml,/teams/PHI/2009.shtml,/players/p/pujolal01.shtml
+23,2009,AL,New York Yankees,Joe Mauer,/leagues/AL/2009.shtml,/teams/NYY/2009.shtml,/players/m/mauerjo01.shtml
+24,2008,NL,Philadelphia Phillies,Albert Pujols,/leagues/NL/2008.shtml,/teams/PHI/2008.shtml,/players/p/pujolal01.shtml
+25,2008,AL,Tampa Bay Rays,Dustin Pedroia,/leagues/AL/2008.shtml,/teams/TBR/2008.shtml,/players/p/pedrodu01.shtml
+26,2007,NL,Colorado Rockies,Jimmy Rollins,/leagues/NL/2007.shtml,/teams/COL/2007.shtml,/players/r/rolliji01.shtml
+27,2007,AL,Boston Red Sox,Alex Rodriguez,/leagues/AL/2007.shtml,/teams/BOS/2007.shtml,/players/r/rodrial01.shtml
+28,2006,NL,St. Louis Cardinals,Ryan Howard,/leagues/NL/2006.shtml,/teams/STL/2006.shtml,/players/h/howarry01.shtml
+29,2006,AL,Detroit Tigers,Justin Morneau,/leagues/AL/2006.shtml,/teams/DET/2006.shtml,/players/m/morneju01.shtml
+30,2005,NL,Houston Astros,Albert Pujols,/leagues/NL/2005.shtml,/teams/HOU/2005.shtml,/players/p/pujolal01.shtml
+31,2005,AL,Chicago White Sox,Alex Rodriguez,/leagues/AL/2005.shtml,/teams/CHW/2005.shtml,/players/r/rodrial01.shtml
+32,2004,NL,St. Louis Cardinals,Barry Bonds,/leagues/NL/2004.shtml,/teams/STL/2004.shtml,/players/b/bondsba01.shtml
+33,2004,AL,Boston Red Sox,Vladimir Guerrero,/leagues/AL/2004.shtml,/teams/BOS/2004.shtml,/players/g/guerrvl01.shtml
+34,2003,NL,Florida Marlins,Barry Bonds,/leagues/NL/2003.shtml,/teams/FLA/2003.shtml,/players/b/bondsba01.shtml
+35,2003,AL,New York Yankees,Alex Rodriguez,/leagues/AL/2003.shtml,/teams/NYY/2003.shtml,/players/r/rodrial01.shtml
+36,2002,NL,San Francisco Giants,Barry Bonds,/leagues/NL/2002.shtml,/teams/SFG/2002.shtml,/players/b/bondsba01.shtml
+37,2002,AL,Anaheim Angels,Miguel Tejada,/leagues/AL/2002.shtml,/teams/ANA/2002.shtml,/players/t/tejadmi01.shtml
+38,2001,NL,Arizona Diamondbacks,Barry Bonds,/leagues/NL/2001.shtml,/teams/ARI/2001.shtml,/players/b/bondsba01.shtml
+39,2001,AL,New York Yankees,Ichiro Suzuki,/leagues/AL/2001.shtml,/teams/NYY/2001.shtml,/players/s/suzukic01.shtml
+40,2000,NL,New York Mets,Jeff Kent,/leagues/NL/2000.shtml,/teams/NYM/2000.shtml,/players/k/kentje01.shtml
+41,2000,AL,New York Yankees,Jason Giambi,/leagues/AL/2000.shtml,/teams/NYY/2000.shtml,/players/g/giambja01.shtml
+42,1999,NL,Atlanta Braves,Chipper Jones,/leagues/NL/1999.shtml,/teams/ATL/1999.shtml,/players/j/jonesch06.shtml
+43,1999,AL,New York Yankees,Ivan Rodriguez,/leagues/AL/1999.shtml,/teams/NYY/1999.shtml,/players/r/rodriiv01.shtml
+44,1998,NL,San Diego Padres,Sammy Sosa,/leagues/NL/1998.shtml,/teams/SDP/1998.shtml,/players/s/sosasa01.shtml
+45,1998,AL,New York Yankees,Juan Gonzalez,/leagues/AL/1998.shtml,/teams/NYY/1998.shtml,/players/g/gonzaju03.shtml
+46,1997,NL,Florida Marlins,Larry Walker,/leagues/NL/1997.shtml,/teams/FLA/1997.shtml,/players/w/walkela01.shtml
+47,1997,AL,Cleveland Indians,Ken Griffey Jr.,/leagues/AL/1997.shtml,/teams/CLE/1997.shtml,/players/g/griffke02.shtml
+48,1996,NL,Atlanta Braves,Ken Caminiti,/leagues/NL/1996.shtml,/teams/ATL/1996.shtml,/players/c/caminke01.shtml
+49,1996,AL,New York Yankees,Juan Gonzalez,/leagues/AL/1996.shtml,/teams/NYY/1996.shtml,/players/g/gonzaju03.shtml
+50,1995,NL,Atlanta Braves,Barry Larkin,/leagues/NL/1995.shtml,/teams/ATL/1995.shtml,/players/l/larkiba01.shtml
+51,1995,AL,Cleveland Indians,Mo Vaughn,/leagues/AL/1995.shtml,/teams/CLE/1995.shtml,/players/v/vaughmo01.shtml
+52,1994,NL,,Jeff Bagwell,/leagues/NL/1994.shtml,,/players/b/bagweje01.shtml
+53,1994,AL,,Frank Thomas,/leagues/AL/1994.shtml,,/players/t/thomafr04.shtml
+54,1993,NL,Philadelphia Phillies,Barry Bonds,/leagues/NL/1993.shtml,/teams/PHI/1993.shtml,/players/b/bondsba01.shtml
+55,1993,AL,Toronto Blue Jays,Frank Thomas,/leagues/AL/1993.shtml,/teams/TOR/1993.shtml,/players/t/thomafr04.shtml
+56,1992,NL,Atlanta Braves,Barry Bonds,/leagues/NL/1992.shtml,/teams/ATL/1992.shtml,/players/b/bondsba01.shtml
+57,1992,AL,Toronto Blue Jays,Dennis Eckersley,/leagues/AL/1992.shtml,/teams/TOR/1992.shtml,/players/e/eckerde01.shtml
+58,1991,NL,Atlanta Braves,Terry Pendleton,/leagues/NL/1991.shtml,/teams/ATL/1991.shtml,/players/p/pendlte01.shtml
+59,1991,AL,Minnesota Twins,Cal Ripken Jr.,/leagues/AL/1991.shtml,/teams/MIN/1991.shtml,/players/r/ripkeca01.shtml
+60,1990,NL,Cincinnati Reds,Barry Bonds,/leagues/NL/1990.shtml,/teams/CIN/1990.shtml,/players/b/bondsba01.shtml
+61,1990,AL,Oakland Athletics,Rickey Henderson,/leagues/AL/1990.shtml,/teams/OAK/1990.shtml,/players/h/henderi01.shtml
+62,1989,NL,San Francisco Giants,Kevin Mitchell,/leagues/NL/1989.shtml,/teams/SFG/1989.shtml,/players/m/mitchke01.shtml
+63,1989,AL,Oakland Athletics,Robin Yount,/leagues/AL/1989.shtml,/teams/OAK/1989.shtml,/players/y/yountro01.shtml
+64,1988,NL,Los Angeles Dodgers,Kirk Gibson,/leagues/NL/1988.shtml,/teams/LAD/1988.shtml,/players/g/gibsoki01.shtml
+65,1988,AL,Oakland Athletics,Jose Canseco,/leagues/AL/1988.shtml,/teams/OAK/1988.shtml,/players/c/cansejo01.shtml
+66,1987,NL,St. Louis Cardinals,Andre Dawson,/leagues/NL/1987.shtml,/teams/STL/1987.shtml,/players/d/dawsoan01.shtml
+67,1987,AL,Minnesota Twins,George Bell,/leagues/AL/1987.shtml,/teams/MIN/1987.shtml,/players/b/bellge02.shtml
+68,1986,NL,New York Mets,Mike Schmidt,/leagues/NL/1986.shtml,/teams/NYM/1986.shtml,/players/s/schmimi01.shtml
+69,1986,AL,Boston Red Sox,Roger Clemens,/leagues/AL/1986.shtml,/teams/BOS/1986.shtml,/players/c/clemero02.shtml
+70,1985,NL,St. Louis Cardinals,Willie McGee,/leagues/NL/1985.shtml,/teams/STL/1985.shtml,/players/m/mcgeewi01.shtml
+71,1985,AL,Kansas City Royals,Don Mattingly,/leagues/AL/1985.shtml,/teams/KCR/1985.shtml,/players/m/mattido01.shtml
+72,1984,NL,San Diego Padres,Ryne Sandberg,/leagues/NL/1984.shtml,/teams/SDP/1984.shtml,/players/s/sandbry01.shtml
+73,1984,AL,Detroit Tigers,Willie Hernandez,/leagues/AL/1984.shtml,/teams/DET/1984.shtml,/players/h/hernawi01.shtml
+74,1983,NL,Philadelphia Phillies,Dale Murphy,/leagues/NL/1983.shtml,/teams/PHI/1983.shtml,/players/m/murphda05.shtml
+75,1983,AL,Baltimore Orioles,Cal Ripken Jr.,/leagues/AL/1983.shtml,/teams/BAL/1983.shtml,/players/r/ripkeca01.shtml
+76,1982,NL,St. Louis Cardinals,Dale Murphy,/leagues/NL/1982.shtml,/teams/STL/1982.shtml,/players/m/murphda05.shtml
+77,1982,AL,Milwaukee Brewers,Robin Yount,/leagues/AL/1982.shtml,/teams/MIL/1982.shtml,/players/y/yountro01.shtml
+78,1981,NL,Los Angeles Dodgers,Mike Schmidt,/leagues/NL/1981.shtml,/teams/LAD/1981.shtml,/players/s/schmimi01.shtml
+79,1981,AL,New York Yankees,Rollie Fingers,/leagues/AL/1981.shtml,/teams/NYY/1981.shtml,/players/f/fingero01.shtml
+80,1980,NL,Philadelphia Phillies,Mike Schmidt,/leagues/NL/1980.shtml,/teams/PHI/1980.shtml,/players/s/schmimi01.shtml
+81,1980,AL,Kansas City Royals,George Brett,/leagues/AL/1980.shtml,/teams/KCR/1980.shtml,/players/b/brettge01.shtml
